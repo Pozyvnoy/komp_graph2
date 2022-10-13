@@ -1,0 +1,20 @@
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\bin\Debug\1 zadanie.exe.config
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\bin\Debug\1 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\bin\Debug\1 zadanie.pdb
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\obj\Debug\1 zadanie.csprojAssemblyReference.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\obj\Debug\_1_zadanie.Form1.resources
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\obj\Debug\_1_zadanie.Properties.Resources.resources
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\obj\Debug\1 zadanie.csproj.GenerateResource.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\obj\Debug\1 zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\Rabotu C#\2kyrs-1semestr\Komp grafika\2 laba\1 zadanie\obj\Debug\1 zadanie.pdb
+D:\практика\Komp_Graph2\2 laba\1 zadanie\bin\Debug\1 zadanie.exe.config
+D:\практика\Komp_Graph2\2 laba\1 zadanie\bin\Debug\1 zadanie.exe
+D:\практика\Komp_Graph2\2 laba\1 zadanie\bin\Debug\1 zadanie.pdb
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.csproj.AssemblyReference.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.csproj.SuggestedBindingRedirects.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\_1_zadanie.Form1.resources
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\_1_zadanie.Properties.Resources.resources
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.csproj.GenerateResource.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.csproj.CoreCompileInputs.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.exe
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.pdb

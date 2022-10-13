@@ -1,0 +1,12 @@
+D:\практика\Komp_Graph2\2 laba\1 zadanie\bin\Debug\1 zadanie.exe.config
+D:\практика\Komp_Graph2\2 laba\1 zadanie\bin\Debug\1 zadanie.exe
+D:\практика\Komp_Graph2\2 laba\1 zadanie\bin\Debug\1 zadanie.pdb
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\kgraph2.csproj.AssemblyReference.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\kgraph2.csproj.SuggestedBindingRedirects.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\_1_zadanie.Form1.resources
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\_1_zadanie.Properties.Resources.resources
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\kgraph2.csproj.GenerateResource.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\kgraph2.csproj.CoreCompileInputs.cache
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.exe
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\1 zadanie.pdb
+D:\практика\Komp_Graph2\2 laba\1 zadanie\obj\Debug\kgraph2.Form1.resources
